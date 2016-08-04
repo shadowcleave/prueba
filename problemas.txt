@@ -1,0 +1,13 @@
+cliente ,admin,gimnasio- no crea (eran casi todas las tablas)
+producto,no modifica y inserta caracteristicas 
+servicios-no abre (listo, tenian demasiados errores)
+
+
+
+
+//---------------------------------------------
+Le implementa lo de las llaver foraneas en el create y modificar de Gimnasio, tienen que implementarselas.
+
+Tenian demasiados errores
+
+Esperos que les sirva bastante, si algo me comentan

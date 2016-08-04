@@ -1,0 +1,12 @@
+#error{
+    
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    border-radius: 0%;
+    border: 0px;
+    border-style: double;
+    font-size: 150%;
+    
+  background-color: red; 
+}
